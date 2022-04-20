@@ -6,8 +6,11 @@
 
 #Venta de Comida por Categoría de Productos - Piso 1
 
+<img width="397" alt="Captura de Pantalla 2022-04-19 a la(s) 22 36 02" src="https://user-images.githubusercontent.com/39570909/164135693-a47c8a2d-2c16-4107-be79-2cd9d93ad14b.png">
 
 #Venta de Comida por Categoría de Productos - Piso 2
+
+<img width="399" alt="Captura de Pantalla 2022-04-19 a la(s) 22 35 23" src="https://user-images.githubusercontent.com/39570909/164135639-0ead2d4d-fd00-4c9c-b664-4a7786386f85.png">
 
 
 
