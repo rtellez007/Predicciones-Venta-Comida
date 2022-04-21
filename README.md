@@ -30,9 +30,9 @@
 
      </td>
   </tr>
-  
+    </table>
 #Venta por Departamento
 
 <img width="353" alt="Captura de Pantalla 2022-04-19 a la(s) 22 55 44" src="https://user-images.githubusercontent.com/39570909/164141131-647ee699-b5c8-49b1-bc19-3d66673d9889.png">
   
-  </table>
+
