@@ -1,6 +1,22 @@
 
 
+# Histogrmas
+
 <table border=1>
+ <tr>
+    <td> 
+      <img width="478" alt="Captura de Pantalla 2022-04-21 a la(s) 22 06 07" src="https://user-images.githubusercontent.com/39570909/164582136-d2e3e43a-9548-4276-a2c3-bf407bdbeff4.png">
+
+      
+      </td
+      
+ <td> 
+      
+      <img width="486" alt="Captura de Pantalla 2022-04-21 a la(s) 22 08 10" src="https://user-images.githubusercontent.com/39570909/164582364-bacad659-f9af-47fc-965c-aa53e26cd9b5.png">
+
+      </td
+  </tr>
+
   <tr>
     <td>   
 
