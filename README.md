@@ -11,9 +11,9 @@
       </td
       
  <td> 
-      
-      <img width="486" alt="Captura de Pantalla 2022-04-21 a la(s) 22 08 10" src="https://user-images.githubusercontent.com/39570909/164582364-bacad659-f9af-47fc-965c-aa53e26cd9b5.png">
+      <img width="485" alt="Captura de Pantalla 2022-04-21 a la(s) 22 10 04" src="https://user-images.githubusercontent.com/39570909/164582586-2f424ff7-6622-43f2-bbc3-9c637f200b88.png">
 
+      
       </td
   </tr>
 </table>
